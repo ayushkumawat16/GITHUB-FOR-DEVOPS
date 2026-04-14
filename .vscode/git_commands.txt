@@ -1,0 +1,59 @@
+    try { . "c:\Users\ayush\AppData\Local\Programs\Microsoft VS Code\072586267e\resources\app\out\vs\workbench\cont... 
+    python3.14 testing.py
+    ls
+    ls -l
+    rm testing.py
+    ls
+    git init
+    ls
+    ls -a
+   clear
+   git status
+   git status
+   git add testing.py
+   git status
+   git rm --cached
+   git status
+   rm testing.py
+   cd .vscode
+   ls
+   git add testing.py
+   ls
+   git status
+   git rm --cached testing.py
+   git status
+   git add .
+   git status
+   git commit -m "added testing files"
+   git status
+   ls -a
+   history
+   git commit -m "added testing files "
+   git config --global user.email "ayushkumawat161102@gmail.com"
+   git commit -m "added testing files "
+   git status
+   rm testing.py
+   ls
+   git status
+   git restore testing.py
+   git status
+   git status
+
+   git status
+   git add git_commands.txt 
+   git status
+   git commit -m " added git commands"
+   git status
+   git remote add origin https://github.com/ayushkumawat16/GITHUB-FOR-DEVOPS.git
+   git remote -v
+   git push origin master
+   git remote set-url origin https://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2@github.com/ayushkumawat16/GITHUB-FO...
+   git remote -v
+   git push origin master
+   git push origin main 
+   git push origin main
+   git remote set-url origin https://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2@github.com/ayushkumawat16/GITHUB-FO... 
+   git remote set-url origin https://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2github.com/ayushkumawat16/GITHUB-FOR... 
+   git remote set-url origin https://github.com/ayushkumawat16/GITHUB-FOR-DEVOPS.git
+   git config --global credential.helper manager
+   git push origin main
